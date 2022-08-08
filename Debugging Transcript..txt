@@ -1,0 +1,3 @@
+This is the first time I have debugged a program that I haven't built personally. My normal strategy for debugging is to edit as I go, fixing the errors the moment I make them, but since I had to debug a program that pre-built, my strategy had to change. The way I went about went as follows.
+
+After submitting the code to visual studio, I immediately checked the error list at the bottom. Its best to correct the errors in numeric order (the error at the top then go down), so I went about correcting the errors at the top first then continued to the bottom. When making break points, I used the information and suggestions to guide me in fixing the program and removing the errors. I repeated this process until the error list was empty and there were no detectable problems.
